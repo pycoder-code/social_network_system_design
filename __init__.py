@@ -1,0 +1,1 @@
+# Django ImageField SHA1 Hash Calculator
